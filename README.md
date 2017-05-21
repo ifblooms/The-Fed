@@ -8,7 +8,7 @@
 - 前端网：[http://www.qdfuns.com/](http://www.qdfuns.com/ "http://www.qdfuns.com/")
 - 爱思资源：[http://www.aseoe.com/](http://www.aseoe.com/ "http://www.aseoe.com/")
 - 慕课网：[http://www.imooc.com/course/list?c=fe](http://www.imooc.com/course/list?c=fe "http://www.imooc.com/course/list?c=fe")
-- w3school:[http://www.w3school.com.cn](http://www.w3school.com.cn "http://www.w3school.com.cn")
+- w3school：[http://www.w3school.com.cn](http://www.w3school.com.cn "http://www.w3school.com.cn")
 
 ## 环境： ##
 - nodejs： [https://nodejs.org/en/](https://nodejs.org/en/ "https://nodejs.org/en/")  [http://nodejs.cn/](http://nodejs.cn/ "http://nodejs.cn/")
