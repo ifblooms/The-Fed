@@ -1,15 +1,6 @@
 # The-Fed #
 
 
-## 前端综合网站： ##
-
-- 菜鸟教程：[http://www.runoob.com/](http://www.runoob.com/ "http://www.runoob.com/")
-- 前端社区：[https://segmentfault.com/](https://segmentfault.com/ "https://segmentfault.com/")
-- 前端网：[http://www.qdfuns.com/](http://www.qdfuns.com/ "http://www.qdfuns.com/")
-- 爱思资源：[http://www.aseoe.com/](http://www.aseoe.com/ "http://www.aseoe.com/")
-- 慕课网：[http://www.imooc.com/course/list?c=fe](http://www.imooc.com/course/list?c=fe "http://www.imooc.com/course/list?c=fe")
-- w3school：[http://www.w3school.com.cn](http://www.w3school.com.cn "http://www.w3school.com.cn")
-
 ## 环境： ##
 - nodejs： [https://nodejs.org/en/](https://nodejs.org/en/ "https://nodejs.org/en/")  [http://nodejs.cn/](http://nodejs.cn/ "http://nodejs.cn/")
 
@@ -99,4 +90,12 @@
 - ES6：[http://es6.ruanyifeng.com/](http://es6.ruanyifeng.com/ "http://es6.ruanyifeng.com/")
 - 优秀模板站：[http://www.themeinfo.com/](http://www.themeinfo.com/ "http://www.themeinfo.com/")
 
+## 前端综合网站： ##
+
+- 菜鸟教程：[http://www.runoob.com/](http://www.runoob.com/ "http://www.runoob.com/")
+- 前端社区：[https://segmentfault.com/](https://segmentfault.com/ "https://segmentfault.com/")
+- w3school：[http://www.w3school.com.cn](http://www.w3school.com.cn "http://www.w3school.com.cn")
+- 前端网：[http://www.qdfuns.com/](http://www.qdfuns.com/ "http://www.qdfuns.com/")
+- 爱思资源：[http://www.aseoe.com/](http://www.aseoe.com/ "http://www.aseoe.com/")
+- 慕课网：[http://www.imooc.com/course/list?c=fe](http://www.imooc.com/course/list?c=fe "http://www.imooc.com/course/list?c=fe")
 
