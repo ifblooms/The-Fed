@@ -94,6 +94,7 @@
 
 - 菜鸟教程：[http://www.runoob.com/](http://www.runoob.com/ "http://www.runoob.com/")
 - 前端社区：[https://segmentfault.com/](https://segmentfault.com/ "https://segmentfault.com/")
+- 掘金：[https://juejin.im/welcome/frontend](https://juejin.im/welcome/frontend "https://juejin.im/welcome/frontend")
 - w3school：[http://www.w3school.com.cn](http://www.w3school.com.cn "http://www.w3school.com.cn")
 - 前端网：[http://www.qdfuns.com/](http://www.qdfuns.com/ "http://www.qdfuns.com/")
 - 爱思资源：[http://www.aseoe.com/](http://www.aseoe.com/ "http://www.aseoe.com/")
